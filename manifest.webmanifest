@@ -1,0 +1,9 @@
+{
+  "name": "Burhani Design",
+  "short_name": "Burhani Design",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f2f4c",
+  "icons": []
+}
